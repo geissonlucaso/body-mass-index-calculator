@@ -1,2 +1,2 @@
-# body-mass-index-calculator
+# Body Mass Index Calculator
 Simple body mass index calculator.
